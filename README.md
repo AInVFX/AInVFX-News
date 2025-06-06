@@ -14,6 +14,105 @@
 
 ## 📅 Episode Archive
 
+### 🎨 June 6, 2025 | Art Direct Every Pixel: NormalCrafter, Any-to-Bokeh, Uni3C & ATI Deep Dive
+
+<details open>
+<summary><b>📺 Episode Video & Contents</b></summary>
+
+**🎥 Watch Episode:** [YouTube - ComfyUI Deep Dive Special](https://youtu.be/0cw2N3W7nKo)
+
+> *Join Adrien Toupet for an in-depth exploration of four game-changing research papers that push art direction in video diffusion models. This special episode includes complete ComfyUI workflows and hands-on demonstrations.*
+
+**🔥 TODAY'S HIGHLIGHTS:**
+- NormalCrafter - Temporally consistent surface normals for relighting
+- Any-to-Bokeh - One-step video bokeh with realistic depth-of-field
+- Uni3C - Unified camera and human motion control
+- ATI - Draw any trajectory and watch it come to life
+
+#### 1. 🔦 **NormalCrafter: Temporally Consistent Surface Normals**
+
+> *Solving the flickering problem in normal estimation*
+
+| 🔗 **Links** | |
+|:---|:---|
+| 🌐 **Project Page** | [normalcrafter.github.io](https://normalcrafter.github.io/) |
+| 💻 **GitHub** | [Binyr/NormalCrafter](https://github.com/Binyr/NormalCrafter) |
+| 📄 **Paper** | [arXiv:2504.11427](https://arxiv.org/abs/2504.11427) |
+| 🔧 **ComfyUI** | [AIWarper/ComfyUI-NormalCrafterWrapper](https://github.com/AIWarper/ComfyUI-NormalCrafterWrapper) |
+| 📁 **Workflow** | [AInVFX_NormalCrafter.json](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_NormalCrafter.json) |
+| 🎬 **Test Asset** | [Basketball footage](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/5192157-hd_1920_1080_30fps.mp4) |
+
+**Key Features:**
+- Semantic Feature Regularization (SFR) for object understanding
+- Two-stage training: latent space → pixel space refinement
+- Detail Transfer node for preserving high-frequency information
+- Window-based processing for GPU memory efficiency
+
+---
+
+#### 2. 📸 **Any-to-Bokeh: Professional Depth-of-Field Effects**
+
+> *One-step video bokeh without frame-by-frame processing*
+
+| 🔗 **Links** | |
+|:---|:---|
+| 🌐 **Project Page** | [vivocameraresearch.github.io/any2bokeh](https://vivocameraresearch.github.io/any2bokeh/) |
+| 💻 **GitHub** | [vivoCameraResearch/any-to-bokeh](https://github.com/vivoCameraResearch/any-to-bokeh) |
+| 📄 **Paper** | [arXiv:2505.21593](https://arxiv.org/abs/2505.21593) |
+
+**Key Innovations:**
+- Multi-Plane Image (MPI) guidance for depth understanding
+- Controllable focus point and blur strength
+- Three-stage training strategy
+- Built on Stable Video Diffusion
+
+---
+
+#### 3. 🎬 **Uni3C: Unified Camera & Human Motion Control**
+
+> *Precise 3D-enhanced control for video generation*
+
+| 🔗 **Links** | |
+|:---|:---|
+| 🌐 **Project Page** | [ewrfcas.github.io/Uni3C](https://ewrfcas.github.io/Uni3C/) |
+| 💻 **GitHub** | [ewrfcas/Uni3C](https://github.com/ewrfcas/Uni3C) |
+| 📄 **Paper** | [arXiv:2504.14899](https://arxiv.org/abs/2504.14899) |
+| 🔧 **ComfyUI** | [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) |
+| 🤗 **Model** | [Wan21_Uni3C_controlnet_fp16.safetensors](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_Uni3C_controlnet_fp16.safetensors) |
+| 📁 **Workflow** | [AInVFX_Uni3C.json](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_Uni3C.json) |
+| 🖼️ **Test Image** | [Waterfall scene](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/pexels-webbshow-2406455.jpg) |
+
+**Technical Details:**
+- PCDController: Plug-and-play point cloud control
+- No joint training required
+- GeoCalib for natural human positioning
+- Compatible with frozen video models
+
+---
+
+#### 4. ✏️ **ATI: Any Trajectory Instruction**
+
+> *Draw trajectories, create realistic motion*
+
+| 🔗 **Links** | |
+|:---|:---|
+| 🌐 **Project Page** | [anytraj.github.io](https://anytraj.github.io/) |
+| 💻 **GitHub** | [bytedance/ATI](https://github.com/bytedance/ATI) |
+| 📄 **Paper** | [arXiv:2505.22944](https://arxiv.org/abs/2505.22944) |
+| 🤗 **Model** | [Wan2_1-I2V-ATI-14B_fp8_e4m3fn.safetensors](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan2_1-I2V-ATI-14B_fp8_e4m3fn.safetensors) |
+| 📁 **Workflows** | [ATI Basic](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI.json) • [ATI Final](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI_Final.json) |
+| 🖼️ **Test Image** | [Pétanque scene](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/elderly-friends-playing-petanque.jpg) |
+
+**Control Parameters:**
+- Temperature: Motion field focus (0-1000)
+- TopK: Number of motion influences
+- Start/End Percent: Diffusion stage control
+- Supports object motion, deformation, and camera movement
+
+</details>
+
+---
+
 ### 🎬 May 28, 2025 | ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek
 
 <details open>
@@ -30,16 +129,6 @@
 - SpatialScore - New benchmark for testing AI's 3D spatial understanding
 - Jenga - Making open source video models 4-10x faster on single GPUs
 - agenticSeek - 100% local AI assistant
-
-**📊 TIMESTAMPS:**
-- 0:00 Introduction
-- 0:28 ILM 50th Anniversary Retrospective
-- 2:07 Cannes Film Festival & Jafar Panahi
-- 3:27 Cinesite TechX Announcement
-- 3:50 Research: SpatialScore
-- 4:45 Research: Jenga Speed Optimization
-- 5:38 GitHub Spotlight: agenticSeek
-- 6:21 Closing Thoughts
 
 #### 1. 🎭 **ILM 50th Anniversary Celebration**
 
@@ -137,7 +226,7 @@
 
 <div align="center">
   
-  📅 **Last Updated:** May 28, 2025 | 📺 **Latest Episode:** May 28, 2025
+  📅 **Last Updated:** June 6, 2025 | 📺 **Latest Episode:** June 6, 2025
   
   ⭐ **If you find this helpful, please star this repository!**
   
@@ -148,3 +237,7 @@
   *Led by Adrien Toupet (former Head of Effects at Wētā FX), AInVFX bridges the gap between cutting-edge AI research and practical VFX applications.*
   
 </div>
+
+
+
+
