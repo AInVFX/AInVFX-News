@@ -19,7 +19,7 @@
 <details open>
 <summary><b>📺 Episode Video & Contents</b></summary>
 
-**🎥 Watch Episode:** [YouTube - ILM's 50th Anniversary Special](https://youtu.be/ffyLCdJc9B8)
+**🎥 Watch Episode:** [YouTube - | 🎬 AInVFX News - May 28, 2025 | ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek](https://youtu.be/ffyLCdJc9B8)
 
 > *Join Adrien Toupet as we celebrate 50 years of Industrial Light & Magic, explore Jafar Panahi's inspiring Palme d'Or win at Cannes, and dive into the latest AI developments transforming the VFX industry.*
 
