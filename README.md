@@ -19,7 +19,7 @@
 <details open>
 <summary><b>📺 Episode Video & Contents</b></summary>
 
-**🎥 Watch Episode:** [YouTube - ComfyUI Deep Dive Special](https://youtu.be/0cw2N3W7nKo)
+**🎥 Watch Episode:** [YouTube - Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://youtu.be/0cw2N3W7nKo)
 
 > *Join Adrien Toupet for an in-depth exploration of four game-changing research papers that push art direction in video diffusion models. This special episode includes complete ComfyUI workflows and hands-on demonstrations.*
 
