@@ -14,7 +14,7 @@
 
 ## 📅 Episode Archive
 
-### 🎨 June 6, 2025 | Art Direct Every Pixel
+### 🎨 June 6, 2025 | Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh
 
 [![Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://img.youtube.com/vi/0cw2N3W7nKo/maxresdefault.jpg)](https://youtu.be/0cw2N3W7nKo)
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 🎬 May 28, 2025 | ILM's 50th Anniversary & Latest AI Developments
+### 🎬 May 28, 2025 | ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek
 
 [![ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek](https://img.youtube.com/vi/ffyLCdJc9B8/maxresdefault.jpg)](https://youtu.be/ffyLCdJc9B8)
 
