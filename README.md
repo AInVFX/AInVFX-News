@@ -16,39 +16,39 @@
 
 ### 🎨 June 6, 2025 | Art Direct Every Pixel
 
-**🎥 Watch:** [Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://youtu.be/0cw2N3W7nKo)
+[![Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://img.youtube.com/vi/0cw2N3W7nKo/maxresdefault.jpg)](https://youtu.be/0cw2N3W7nKo)
 
 > Learn to art direct Wan 2.1 - Join Adrien for an in-depth ComfyUI tutorial covering four game-changing research papers that enable unprecedented art direction in video diffusion models.
 
-**📁 ComfyUI workflows & input assets:** [episodes/20250606](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20250606)
+**📁 ComfyUI Workflows & Assets:** [episodes/20250606](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20250606)
 
 **🔗 Resources:**
 
 **NormalCrafter**
 - [Project Page](https://normalcrafter.github.io/) • [GitHub](https://github.com/Binyr/NormalCrafter) • [Paper](https://arxiv.org/abs/2504.11427)
 - [ComfyUI Wrapper](https://github.com/AIWarper/ComfyUI-NormalCrafterWrapper)
-- [Workflow](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_NormalCrafter.json) • [Input Video](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/5192157-hd_1920_1080_30fps.mp4)
+- [ComfyUI Workflow](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_NormalCrafter.json) • [Input Video](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/5192157-hd_1920_1080_30fps.mp4)
 
 **Any-to-Bokeh**
 - [Project Page](https://vivocameraresearch.github.io/any2bokeh/) • [GitHub](https://github.com/vivoCameraResearch/any-to-bokeh) • [Paper](https://arxiv.org/abs/2505.21593)
 
 **Uni3C**
 - [Project Page](https://ewrfcas.github.io/Uni3C/) • [GitHub](https://github.com/ewrfcas/Uni3C) • [Paper](https://arxiv.org/abs/2504.14899)
-- [ComfyUI Wrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) • [Model](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_Uni3C_controlnet_fp16.safetensors)
-- [Workflow](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_Uni3C.json) • [Input Image](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/pexels-webbshow-2406455.jpg) • [3D Cube](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/cube.obj)
+- [ComfyUI Wrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) • [Model](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_Uni3C_controlnet_fp16.safetensors) • [CausVid LoRA (optional)](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_CausVid_14B_T2V_lora_rank32_v2.safetensors)
+- [ComfyUI Workflow](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_Uni3C.json) • [Input Image](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/pexels-webbshow-2406455.jpg) • [3D Cube](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/cube.obj)
 
 **ATI**
 - [Project Page](https://anytraj.github.io/) • [GitHub](https://github.com/bytedance/ATI) • [Paper](https://arxiv.org/abs/2505.22944)
 - [Model](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan2_1-I2V-ATI-14B_fp8_e4m3fn.safetensors)
-- [Workflow (Start)](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI.json) • [Workflow (Final)](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI_Final.json) • [Input Image](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/elderly-friends-playing-petanque.jpg)
+- [ComfyUI Workflow (Start)](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI.json) • [ComfyUI Workflow (Final)](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI_Final.json) • [Input Image](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/elderly-friends-playing-petanque.jpg)
 
-📰 [Full Article](https://www.ainvfx.com/blog/art-direct-wan2-1-normalcrafter-any-to-bokeh-uni3c-and-ati-deep-dive/)
+📰 Read the full article: [Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://www.ainvfx.com/blog/art-direct-wan2-1-normalcrafter-any-to-bokeh-uni3c-and-ati-deep-dive/)
 
 ---
 
 ### 🎬 May 28, 2025 | ILM's 50th Anniversary & Latest AI Developments
 
-**🎥 Watch:** [ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek](https://youtu.be/ffyLCdJc9B8)
+[![ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek](https://img.youtube.com/vi/ffyLCdJc9B8/maxresdefault.jpg)](https://youtu.be/ffyLCdJc9B8)
 
 > Join Adrien as we celebrate 50 years of Industrial Light & Magic, explore Jafar Panahi's inspiring Palme d'Or win at Cannes, and dive into the latest AI developments transforming the VFX industry.
 
@@ -69,7 +69,7 @@
 - **Jenga:** [Project](https://julianjuaner.github.io/projects/jenga/) • [Paper](https://arxiv.org/abs/2505.16864) • [GitHub](https://github.com/dvlab-research/Jenga/)
 - **agenticSeek:** [GitHub](https://github.com/Fosowl/agenticSeek)
 
-📰 [Full Article](https://www.ainvfx.com/blog/ilms-50th-cannes-techx-spatialscore-jenga-and-agenticseek/)
+📰 Read the full article: [ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek](https://www.ainvfx.com/blog/ilms-50th-cannes-techx-spatialscore-jenga-and-agenticseek/)
 
 ---
 
