@@ -24,20 +24,20 @@
 
 **🔗 Resources:**
 
-**NormalCrafter**
+**NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**
 - [Project Page](https://normalcrafter.github.io/) • [GitHub](https://github.com/Binyr/NormalCrafter) • [Paper](https://arxiv.org/abs/2504.11427)
 - [ComfyUI Wrapper](https://github.com/AIWarper/ComfyUI-NormalCrafterWrapper)
 - [ComfyUI Workflow](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_NormalCrafter.json) • [Input Video](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/5192157-hd_1920_1080_30fps.mp4)
 
-**Any-to-Bokeh**
+**Any-to-Bokeh: One-Step Video Bokeh via Multi-Plane Image Guided Diffusion**
 - [Project Page](https://vivocameraresearch.github.io/any2bokeh/) • [GitHub](https://github.com/vivoCameraResearch/any-to-bokeh) • [Paper](https://arxiv.org/abs/2505.21593)
 
-**Uni3C**
+**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**
 - [Project Page](https://ewrfcas.github.io/Uni3C/) • [GitHub](https://github.com/ewrfcas/Uni3C) • [Paper](https://arxiv.org/abs/2504.14899)
 - [ComfyUI Wrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) • [Model](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_Uni3C_controlnet_fp16.safetensors) • [CausVid LoRA (optional)](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_CausVid_14B_T2V_lora_rank32_v2.safetensors)
 - [ComfyUI Workflow](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_Uni3C.json) • [Input Image](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/pexels-webbshow-2406455.jpg) • [3D Cube](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/cube.obj)
 
-**ATI**
+**ATI: Any Trajectory Instruction for Controllable Video Generation**
 - [Project Page](https://anytraj.github.io/) • [GitHub](https://github.com/bytedance/ATI) • [Paper](https://arxiv.org/abs/2505.22944)
 - [Model](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan2_1-I2V-ATI-14B_fp8_e4m3fn.safetensors)
 - [ComfyUI Workflow (Start)](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI.json) • [ComfyUI Workflow (Final)](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/AInVFX_ATI_Final.json) • [Input Image](https://github.com/AInVFX/AInVFX-News/blob/main/episodes/20250606/elderly-friends-playing-petanque.jpg)
@@ -65,9 +65,9 @@
 
 **Industry & Research**
 - **Cinesite TechX:** [Portal](https://cinesite.com/techx/) • [Company](https://cinesite.com/)
-- **SpatialScore:** [Project](https://haoningwu3639.github.io/SpatialScore/) • [Paper](https://arxiv.org/abs/2505.17012) • [GitHub](https://github.com/haoningwu3639/SpatialScore/)
-- **Jenga:** [Project](https://julianjuaner.github.io/projects/jenga/) • [Paper](https://arxiv.org/abs/2505.16864) • [GitHub](https://github.com/dvlab-research/Jenga/)
-- **agenticSeek:** [GitHub](https://github.com/Fosowl/agenticSeek)
+- **SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding** [Project](https://haoningwu3639.github.io/SpatialScore/) • [Paper](https://arxiv.org/abs/2505.17012) • [GitHub](https://github.com/haoningwu3639/SpatialScore/)
+- **Jenga: Training-Free Efficient Video Generation via Dynamic Token Carving** [Project](https://julianjuaner.github.io/projects/jenga/) • [Paper](https://arxiv.org/abs/2505.16864) • [GitHub](https://github.com/dvlab-research/Jenga/)
+- **agenticSeek: Private, Local Manus Alternative** [GitHub](https://github.com/Fosowl/agenticSeek)
 
 📰 Read the full article: [ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek](https://www.ainvfx.com/blog/ilms-50th-cannes-techx-spatialscore-jenga-and-agenticseek/)
 
