@@ -14,7 +14,7 @@
 
 ## 📅 Episode Archive
 
-### 🤿 June 14, 2025 | AInVFX DeepDive - Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE
+### 🤿 June 14, 2025 | DeepDive - Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE
 
 [![Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE](https://img.youtube.com/vi/7YmiJxPEMk0/maxresdefault.jpg)](https://youtu.be/7YmiJxPEMk0)
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🎨 June 6, 2025 | Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh
+### 🎬 June 6, 2025 | Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh
 
 [![Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://img.youtube.com/vi/0cw2N3W7nKo/maxresdefault.jpg)](https://youtu.be/0cw2N3W7nKo)
 
