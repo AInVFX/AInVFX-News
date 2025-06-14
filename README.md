@@ -14,6 +14,39 @@
 
 ## 📅 Episode Archive
 
+### 🤿 June 14, 2025 | AInVFX DeepDive - Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE
+
+[![Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE](https://img.youtube.com/vi/7YmiJxPEMk0/maxresdefault.jpg)](https://youtu.be/7YmiJxPEMk0)
+
+> Transform a single LEGO photo into a complete animated shot! Join Adrien for an in-depth tutorial combining the latest open-source AI tools to bring our favorite toys to life.
+
+**📁 ComfyUI Workflows & Assets:** [episodes/20250614](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20250614)
+
+**🔗 Resources:**
+
+**WAN 2.1 + ATI (Any Trajectory Instruction)**
+- [ATI Model](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan2_1-I2V-ATI-14B_fp8_e4m3fn.safetensors)
+- [ComfyUI WANVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)
+
+**CoTracker**
+- [Research Paper](https://github.com/facebookresearch/co-tracker)
+- [ComfyUI CoTracker Node](https://github.com/s9roll7/comfyui_cotracker_node)
+- [KJ Nodes](https://github.com/kijai/ComfyUI-KJNodes)
+
+**SAM2 (Segment Anything 2)**
+- [Official GitHub](https://github.com/facebookresearch/segment-anything-2)
+- [ComfyUI Implementation](https://github.com/kijai/ComfyUI-segment-anything-2)
+
+**VACE**
+- [Models](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/tree/main/split_files/diffusion_models)
+- [ComfyUI Wrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)
+
+**Additional Resources:**
+- [CausVid LoRA](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_CausVid_14B_T2V_lora_rank32_v2.safetensors)
+- [Video Helper Suite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
+
+📰 Read the full article: [LEGO Animation DeepDive: WAN + ATI + CoTracker + SAM2 + VACE Complete Workflow](https://www.ainvfx.com/blog/lego-animation-wan-ati-cotracker-sam2-vace-workflow/)
+
 ### 🎨 June 6, 2025 | Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh
 
 [![Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://img.youtube.com/vi/0cw2N3W7nKo/maxresdefault.jpg)](https://youtu.be/0cw2N3W7nKo)
@@ -93,7 +126,7 @@
 
 <div align="center">
   
-  📅 **Last Updated:** June 6, 2025 | 📺 **Latest Episode:** June 6, 2025
+  📅 **Last Updated:** June 14, 2025 | 📺 **Latest Episode:** June 14, 2025
   
   ⭐ **If you find this helpful, please star this repository!**
   
