@@ -41,7 +41,7 @@
 - [KJ Nodes](https://github.com/kijai/ComfyUI-KJNodes)
 - [Video Helper Suite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
 
-📰 Read the full article: [LEGO Animation DeepDive: WAN + ATI + CoTracker + SAM2 + VACE Complete Workflow](https://www.ainvfx.com/blog/lego-animation-wan-ati-cotracker-sam2-vace-workflow/)
+📰 Read the full article: [LEGO Animation DeepDive: WAN + ATI + CoTracker + SAM2 + VACE Complete Workflow](https://www.ainvfx.com/blog/lego-animation-deepdive-wan-ati-cotracker-sam2-vace-complete-workflow/)
 
 ---
 
