@@ -14,6 +14,33 @@
 
 ## 📅 Episode Archive
 
+### 🎬 June 18, 2025 | ContentV, CoTracker3, Self-Forcing & CBottle
+
+[![ContentV, CoTracker3, Self-Forcing & CBottle](https://img.youtube.com/vi/U6LoN10ZpxU/maxresdefault.jpg)](https://youtu.be/U6LoN10ZpxU)
+
+> Four groundbreaking papers democratizing AI development - from training competitive video models with 256 NPUs to tracking through occlusions, streaming video generation, and climate modeling.
+
+**🔗 Resources:**
+
+**ContentV: Efficient Training of Video Generation Models**
+- [Project Page](https://contentv.github.io/) • [Paper](https://arxiv.org/abs/2506.05343) • [GitHub](https://github.com/bytedance/ContentV)
+
+**CoTracker3: Tracking Any Point Through Occlusions**
+- [Project Page](https://cotracker3.github.io/) • [Paper](https://arxiv.org/abs/2410.11831) • [GitHub](https://github.com/facebookresearch/co-tracker)
+- [ComfyUI Node](https://github.com/s9roll7/comfyui_cotracker_node)
+- See our [LEGO DeepDive](https://youtu.be/7YmiJxPEMk0) for CoTracker + ATI workflow
+
+**Self-Forcing: Autoregressive Video Diffusion**
+- [Project Page](https://self-forcing.github.io/) • [Paper](https://arxiv.org/abs/2506.08009) • [GitHub](https://github.com/guandeh17/Self-Forcing)
+
+**CBottle: Climate Foundation Model**
+- [NVIDIA Earth-2](https://www.nvidia.com/en-us/high-performance-computing/earth-2/) • [Blog](https://blogs.nvidia.com/blog/earth2-generative-ai-foundation-model-global-climate-kernel-scale-resolution/)
+- [Paper](https://arxiv.org/abs/2505.06474v1) • [GitHub](https://github.com/NVlabs/cBottle)
+
+📰 Read the full article: [ContentV, CoTracker3, Self-Forcing & CBottle - Democratizing AI Development](https://www.ainvfx.com/blog/contentv-cotracker3-self-forcing-and-cbottle-democratizing-ai-development/)
+
+---
+
 ### 🤿 June 14, 2025 | DeepDive - Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE
 
 [![Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE](https://img.youtube.com/vi/7YmiJxPEMk0/maxresdefault.jpg)](https://youtu.be/7YmiJxPEMk0)
@@ -124,7 +151,7 @@
 
 <div align="center">
   
-  📅 **Last Updated:** June 14, 2025 | 📺 **Latest Episode:** June 14, 2025
+  📅 **Last Updated:** June 18, 2025
   
   ⭐ **If you find this helpful, please star this repository!**
   
