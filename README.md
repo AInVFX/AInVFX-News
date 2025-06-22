@@ -14,6 +14,34 @@
 
 ## 📅 Episode Archive
 
+### 🎬 June 21, 2025 | Speed Up Video Generation 2-3x: MagCache, NAG Negative Prompting, DLoRAL Upscaling & AI Art Restoration
+
+[![Speed Up Video Generation 2-3x: MagCache, NAG, DLoRAL & AI Art Restoration](https://img.youtube.com/vi/YGTUQw9ff4E/maxresdefault.jpg)](https://youtu.be/YGTUQw9ff4E)
+
+> Four practical techniques for faster, better video generation: MagCache accelerates diffusion 2-3x, NAG brings back negative prompting to distilled models, DLoRAL upscales in one step, and MIT shows how AI helps preserve paintings.
+
+**📁 ComfyUI Workflows & Assets:** [episodes/20250621](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20250621)
+
+**🔗 Resources:**
+
+**MagCache: Fast Video Generation with Magnitude-Aware Cache**
+- [Project Page](https://zehong-ma.github.io/MagCache/) • [Paper](https://arxiv.org/abs/2506.09045) • [GitHub](https://github.com/Zehong-Ma/ComfyUI-MagCache)
+- [WanVideoWrapper Integration](https://github.com/kijai/ComfyUI-WanVideoWrapper)
+
+**NAG: Normalized Attention Guidance**
+- [Project Page](https://chendaryen.github.io/NAG.github.io/) • [Paper](https://arxiv.org/abs/2505.21179) • [GitHub](https://github.com/ChenDarYen/Normalized-Attention-Guidance)
+- [Self-Forcing LoRA](https://huggingface.co/Kijai/WanVideo_comfy/blob/main/Wan21_T2V_14B_lightx2v_cfg_step_distill_lora_rank32.safetensors)
+
+**DLoRAL: One-Step Video Super-Resolution**
+- [Paper](https://arxiv.org/abs/2506.15591) • [GitHub](https://github.com/yjsunnn/DLoRAL) • [Demo Video](https://www.youtube.com/embed/Jsk8zSE3U-w?si=jz1Isdzxt_NqqDFL&vq=hd1080)
+
+**Physical Art Restoration with AI**
+- [MIT News](https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611) • [Nature Paper](https://www.nature.com/articles/s41586-025-09045-4) • [Nature Video](https://www.nature.com/articles/d41586-025-01836-z)
+
+📰 Read the full article: [Speed Up Video Generation 2-3x: MagCache, NAG, DLoRAL & AI Art Restoration](https://www.ainvfx.com/blog/speed-up-video-generation-2-3x-magcache-nag-dloral-and-ai-art-restoration/)
+
+---
+
 ### 🎬 June 18, 2025 | ContentV, CoTracker3, Self-Forcing & CBottle
 
 [![ContentV, CoTracker3, Self-Forcing & CBottle](https://img.youtube.com/vi/U6LoN10ZpxU/maxresdefault.jpg)](https://youtu.be/U6LoN10ZpxU)
