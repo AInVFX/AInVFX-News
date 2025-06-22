@@ -18,7 +18,7 @@
 
 [![Speed Up Video Generation 2-3x: MagCache, NAG, DLoRAL & AI Art Restoration](https://img.youtube.com/vi/YGTUQw9ff4E/maxresdefault.jpg)](https://youtu.be/YGTUQw9ff4E)
 
-> Four practical techniques for faster, better video generation: MagCache accelerates diffusion 2-3x, NAG brings back negative prompting to distilled models, DLoRAL upscales in one step, and MIT shows how AI helps preserve paintings.
+> Four practical techniques for faster, better video generation: MagCache accelerates diffusion 2-3x, NAG brings back negative prompting to distilled models, DLoRAL upscales videos in one step, and MIT shows how AI can be use for Art restoration.
 
 **📁 ComfyUI Workflows & Assets:** [episodes/20250621](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20250621)
 
