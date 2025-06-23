@@ -14,7 +14,7 @@
 
 ## 📅 Episode Archive
 
-### 🎬 June 21, 2025 | Speed Up Video Generation 2-3x: MagCache, NAG Negative Prompting, DLoRAL Upscaling & AI Art Restoration
+### 🎬  Speed up WAN 2-3x with MagCache + NAG negative prompting + One-step upscale | AInVFX News June 21
 
 [![Speed Up Video Generation 2-3x: MagCache, NAG, DLoRAL & AI Art Restoration](https://img.youtube.com/vi/YGTUQw9ff4E/maxresdefault.jpg)](https://youtu.be/YGTUQw9ff4E)
 
@@ -42,7 +42,7 @@
 
 ---
 
-### 🎬 June 18, 2025 | ContentV, CoTracker3, Self-Forcing & CBottle
+### 🎬 Democratizing AI: train models with 256 NPUs, track through occlusions | AInVFX News June 18
 
 [![ContentV, CoTracker3, Self-Forcing & CBottle](https://img.youtube.com/vi/U6LoN10ZpxU/maxresdefault.jpg)](https://youtu.be/U6LoN10ZpxU)
 
@@ -69,7 +69,7 @@
 
 ---
 
-### 🤿 June 14, 2025 | DeepDive - Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE
+### 🤿 Create your own LEGO animation: complete AI workflow from photo to final shot | AInVFX June 13
 
 [![Create your own LEGO animated shot from scratch: WAN + ATI + CoTracker + SAM2 + VACE](https://img.youtube.com/vi/7YmiJxPEMk0/maxresdefault.jpg)](https://youtu.be/7YmiJxPEMk0)
 
@@ -100,7 +100,7 @@
 
 ---
 
-### 🎬 June 6, 2025 | Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh
+### 🎬 Master art direction in AI video: normals, bokeh, camera control & trajectories | AInVFX June 6
 
 [![Art direct Wan 2.1 ComfyUI - ATI, Uni3C, NormalCrafter & Any2Bokeh](https://img.youtube.com/vi/0cw2N3W7nKo/maxresdefault.jpg)](https://youtu.be/0cw2N3W7nKo)
 
@@ -132,7 +132,7 @@
 
 ---
 
-### 🎬 May 28, 2025 | ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek
+### 🎬 ILM turns 50, Cannes surprises, and AI gets 10x faster | AInVFX News May 28
 
 [![ILM's 50th, Cannes, TechX, SpatialScore, Jenga & AgenticSeek](https://img.youtube.com/vi/ffyLCdJc9B8/maxresdefault.jpg)](https://youtu.be/ffyLCdJc9B8)
 
