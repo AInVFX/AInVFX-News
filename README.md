@@ -14,6 +14,29 @@
 
 ## 📅 Episode Archive
 
+### 🎬 SeedVR2: One-Step Video Restoration Deep Dive | AInVFX July 11
+
+[![SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training](https://img.youtube.com/vi/I0sl45GMqNg/maxresdefault.jpg)](https://youtu.be/I0sl45GMqNg)
+
+> ByteDance's SeedVR2 transforms video upscaling with one-step restoration instead of 15-50. Complete tutorial covering ComfyUI setup, BlockSwap for consumer GPUs, alpha channel workflows, and multi-GPU processing.
+
+**📁 ComfyUI Workflows & Assets:** [episodes/20250711](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20250711)
+
+**🔗 Resources:**
+
+**SeedVR2 Research:**
+- [Project Page](https://iceclear.github.io/projects/seedvr2/) • [SeedVR Paper](https://arxiv.org/abs/2501.01320) • [SeedVR2 Paper](https://arxiv.org/abs/2506.05301)
+- [Official GitHub](https://github.com/ByteDance-Seed/SeedVR)
+
+**ComfyUI Implementation:**
+- [SeedVR2 Node by NumZ](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler)
+- [CoCoTools IO](https://github.com/Conor-Collins/ComfyUI-CoCoTools_IO)
+- [Video Helper Suite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
+
+📰 Read the full article: [SeedVR2: One-Step Video Restoration Deep Dive](https://www.ainvfx.com/blog/seedvr2-one-step-video-restoration-deep-dive/)
+
+---
+
 ### 🎬  Speed up WAN 2-3x with MagCache + NAG negative prompting + One-step upscale | AInVFX News June 21
 
 [![Speed Up Video Generation 2-3x: MagCache, NAG, DLoRAL & AI Art Restoration](https://img.youtube.com/vi/YGTUQw9ff4E/maxresdefault.jpg)](https://youtu.be/YGTUQw9ff4E)
