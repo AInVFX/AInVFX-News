@@ -33,7 +33,7 @@
 - [CoCoTools IO](https://github.com/Conor-Collins/ComfyUI-CoCoTools_IO)
 - [Video Helper Suite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
 
-📰 Read the full article: [SeedVR2: One-Step Video Restoration Deep Dive](https://www.ainvfx.com/blog/seedvr2-one-step-video-restoration-deep-dive/)
+📰 Read the full article: [One-step 4K video upscaling and beyond for free in ComfyUI with SeedVR2]([https://www.ainvfx.com/blog/seedvr2-one-step-video-restoration-deep-dive/](https://www.ainvfx.com/blog/one-step-4k-video-upscaling-and-beyond-for-free-in-comfyui-with-seedvr2/))
 
 ---
 
