@@ -25,14 +25,14 @@
 **🔗 Resources:**
 
 **SeedVR2 Research:**
-- [Project Page](https://iceclear.github.io/projects/seedvr2/) • [SeedVR Paper](https://arxiv.org/abs/2501.01320) • [SeedVR2 Paper](https://arxiv.org/abs/2506.05301)
-- [Official GitHub](https://github.com/ByteDance-Seed/SeedVR)
+- [SeedVR2 Project Page](https://iceclear.github.io/projects/seedvr2/) • [SeedVR Paper](https://arxiv.org/abs/2501.01320) • [SeedVR2 Paper](https://arxiv.org/abs/2506.05301)
+- [Official SeedVR & SeedVR2 GitHub](https://github.com/ByteDance-Seed/SeedVR)
 
 **ComfyUI Implementation:**
-- [SeedVR2 Node by NumZ](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler)
-- [CoCoTools IO](https://github.com/Conor-Collins/ComfyUI-CoCoTools_IO)
-- [Video Helper Suite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
-
+- [ComfyUI-SeedVR2_VideoUpscaler by NumZ](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler)
+- [ComfyUI-CoCoTools_IO by Conor-Collins](https://github.com/Conor-Collins/ComfyUI-CoCoTools_IO)
+- [ComfyUI-VideoHelperSuite by Kosinkadink](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
+- 
 📰 Read the full article: [One-step 4K video upscaling and beyond for free in ComfyUI with SeedVR2](https://www.ainvfx.com/blog/one-step-4k-video-upscaling-and-beyond-for-free-in-comfyui-with-seedvr2/)
 
 ---
