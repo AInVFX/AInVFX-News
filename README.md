@@ -14,7 +14,7 @@
 
 ## 📅 Episode Archive
 
-### 🎬 SeedVR2: One-Step Video Restoration Deep Dive | AInVFX July 11
+### 🤿 One-Step Video Upscaling: Complete ComfyUI SeedVR2 Guide (Free workflow included) | AInVFX July 11
 
 [![SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training](https://img.youtube.com/vi/I0sl45GMqNg/maxresdefault.jpg)](https://youtu.be/I0sl45GMqNg)
 
