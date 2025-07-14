@@ -202,14 +202,12 @@
 
 <div align="center">
   
-  📅 **Last Updated:** June 18, 2025
-  
   ⭐ **If you find this helpful, please star this repository!**
   
   ---
   
   **💡 About AInVFX News**
   
-  *Led by Adrien Toupet (former Head of Effects at Wētā FX), AInVFX bridges the gap between cutting-edge AI research and practical VFX applications.*
+  *Led by Adrien (former Head of Effects at Wētā FX), AInVFX bridges the gap between cutting-edge AI research and practical VFX applications.*
   
 </div>
