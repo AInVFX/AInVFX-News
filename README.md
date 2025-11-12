@@ -14,6 +14,30 @@
 
 ## 📅 Episode Archive
 
+### 🤿 SeedVR2 v2.5: Official Guide from the ComfyUI Integration Team | AInVFX November 7
+[![SeedVR2 v2.5: Complete Redesign with 4-Node Architecture & GGUF Support](https://img.youtube.com/vi/MBtWYXq_r60/maxresdefault.jpg)](https://youtu.be/MBtWYXq_r60)
+
+> After 4 months of community-driven development, SeedVR2 v2.5 brings a complete architectural redesign. New 4-node system, GGUF quantization for 8GB GPUs, torch.compile optimization, native alpha support, and production-ready CLI make professional upscaling accessible to everyone. Breaking change but worth it.
+
+**📁 ComfyUI Workflows & Assets:** Directly in the ComfyUI Template Manager or at [https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler/tree/main/example_workflows](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler/tree/main/example_workflows)
+
+**🔗 Resources:**
+
+**SeedVR2 Implementation:**
+- [Official ComfyUI Integration GitHub](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) • [ComfyUI Registry](https://registry.comfy.org/nodes/seedvr2_videoupscaler)
+- [Installation Guide](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler#-installation)
+
+**Model Repositories:**
+- [Main models (numz)](https://huggingface.co/numz/SeedVR2_comfyUI) • [AInVFX models](https://huggingface.co/AInVFX/SeedVR2_comfyUI) • [GGUF models (cmeka)](https://huggingface.co/cmeka/SeedVR2-GGUF)
+
+**SeedVR2 Research:**
+- [SeedVR2 Project Page](https://iceclear.github.io/projects/seedvr2/) • [SeedVR Paper](https://arxiv.org/abs/2501.01320) • [SeedVR2 Paper](https://arxiv.org/abs/2506.05301)
+- [Official ByteDance GitHub](https://github.com/ByteDance-Seed/SeedVR)
+
+📰 Read the full article: [SeedVR2 v2.5: The complete redesign that makes 7B models run on 8GB GPUs](https://www.ainvfx.com/blog/seedvr2-v2-5-the-complete-redesign-that-makes-7b-models-run-on-8gb-gpus/)
+
+---
+
 ### 🤿 One-Step Video Upscaling: Complete ComfyUI SeedVR2 Guide (Free workflow included) | AInVFX July 11
 
 [![SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training](https://img.youtube.com/vi/I0sl45GMqNg/maxresdefault.jpg)](https://youtu.be/I0sl45GMqNg)
