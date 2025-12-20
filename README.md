@@ -14,6 +14,31 @@
 
 ## 📅 Episode Archive
 
+### 🤿 Demystifying ComfyUI: Complete installation to production workflow guide | AInVFX December 19
+[![Demystifying ComfyUI: Complete installation to production workflow guide](https://img.youtube.com/vi/VG0hix4DLM0/maxresdefault.jpg)](https://youtu.be/VG0hix4DLM0)
+
+> ComfyUI doesn't have to be overwhelming. This comprehensive guide takes you from manual installation through creating your first complete AI workflow—image generation, multi-angle art direction, video creation, post-processing, and HD upscaling. Everything you need to go from beginner to confident.
+
+**🔗 Resources:**
+
+**ComfyUI:**
+- [ComfyUI Official Repository](https://github.com/comfyanonymous/ComfyUI)
+
+**Installation Prerequisites:**
+- [Python 3.13](https://www.python.org/downloads/) • [UV Package Manager](https://docs.astral.sh/uv/) • [Git](https://git-scm.com/)
+- [NVIDIA Drivers](https://www.nvidia.com/Download/index.aspx) • [PyTorch](https://pytorch.org/get-started/locally/)
+
+**Tools & Nodes Featured:**
+- [Z-Image](https://github.com/Tongyi-MAI/Z-Image) • [QwenImageEdit](https://github.com/QwenLM/Qwen-Image) • [Kandinsky-5](https://github.com/kandinskylab/kandinsky-5)
+- [KJ Nodes](https://github.com/kijai/ComfyUI-KJNodes) • [SeedVR2 VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler)
+
+**Related Tutorials:**
+- [SeedVR2 v2.5 Complete Guide](https://www.youtube.com/watch?v=MBtWYXq_r60)
+
+📰 Read the full article: [Demystifying ComfyUI: Complete installation to production workflow guide](https://www.ainvfx.com/blog/demystifying-comfyui-complete-installation-to-production-workflow-guide/)
+
+---
+
 ### 🤿 SeedVR2 v2.5: Official Guide from the ComfyUI Integration Team | AInVFX November 7
 [![SeedVR2 v2.5: Complete Redesign with 4-Node Architecture & GGUF Support](https://img.youtube.com/vi/MBtWYXq_r60/maxresdefault.jpg)](https://youtu.be/MBtWYXq_r60)
 
