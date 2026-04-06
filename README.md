@@ -16,7 +16,7 @@
 
 ### 🎬 INNOCENCE — From Chinese ink drawings to an AI short film: custom Z-Image & LTX-2.3 LoRAs | AInVFX April 6
 
-[![INNOCENCE — From Chinese ink drawings to an AI short film: custom Z-Image & LTX-2.3 LoRAs](https://img.youtube.com/vi/hq1jg6s91y0/maxresdefault.jpg)](https://youtu.be/hq1jg6s91y0)
+[![INNOCENCE — From Chinese ink drawings to an AI short film: custom Z-Image & LTX-2.3 LoRAs](https://img.youtube.com/vi/0z57f6L_hBc/maxresdefault.jpg)](https://youtu.be/0z57f6L_hBc)
 
 > A film about an icicle, my son, and everything it takes to become something — just before it disappears. Made entirely with open source models as part of the Arca Gidan Prize, a one month open source AI film contest, in partnership with Banodoco, ComfyUI, and Lightricks.  
 
