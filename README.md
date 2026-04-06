@@ -20,7 +20,7 @@
 
 > A film about an icicle, my son, and everything it takes to become something — just before it disappears. Made entirely with open source models as part of the Arca Gidan Prize, a one month open source AI film contest, in partnership with Banodoco, ComfyUI, and Lightricks.  
 
-**📁 ComfyUI Workflows & Assets:** [episodes/20260404](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20260404)
+**📁 ComfyUI Workflows & Assets:** [episodes/20260406](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20260406)
 
 **🔗 Resources:**
 
