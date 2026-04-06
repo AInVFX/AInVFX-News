@@ -14,6 +14,33 @@
 
 ## 📅 Episode Archive
 
+### 🎬 INNOCENCE — From Chinese ink drawings to an AI short film: custom Z-Image & LTX-2.3 LoRAs | AInVFX April 6
+
+[![INNOCENCE — From Chinese ink drawings to an AI short film: custom Z-Image & LTX-2.3 LoRAs](https://img.youtube.com/vi/hq1jg6s91y0/maxresdefault.jpg)](https://youtu.be/hq1jg6s91y0)
+
+> A film about an icicle, my son, and everything it takes to become something — just before it disappears. Made entirely with open source models as part of the Arca Gidan Prize, a one month open source AI film contest, in partnership with Banodoco, ComfyUI, and Lightricks.  
+
+**📁 ComfyUI Workflows & Assets:** [episodes/20260404](https://github.com/AInVFX/AInVFX-News/tree/main/episodes/20260404)
+
+**🔗 Resources:**
+
+**Arca Gidan Prize:**
+- [Wathch all submissions](https://arcagidan.com/winners) • [Banodoco](https://banodoco.ai/) • [Lightricks](https://www.lightricks.com/) • [ComfyUI](https://www.comfy.org/)
+
+**Training:**
+- [Musubi-tuner (main — Z-Image)](https://github.com/kohya-ss/musubi-tuner) • [Musubi-tuner (ltx-2-dev branch — LTX-V)](https://github.com/AkaneTendo25/musubi-tuner)
+- [Z-Image model](https://huggingface.co/Comfy-Org/z_image) • [LTX-2.3 checkpoint](https://huggingface.co/Lightricks/LTX-2.3)
+
+**ComfyUI Nodes:**
+- [ComfyUI-SeedVR2_VideoUpscaler by NumZ/AInVFX](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) • [ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
+
+**Related Tutorials:**
+- [SeedVR2 v2.5 Complete Guide](https://www.youtube.com/watch?v=MBtWYXq_r60)
+
+📰 Read the full article: [From 20-year-old ink drawings to an AI short film: training custom LoRAs for Z-Image and LTX-2.3](https://www.ainvfx.com/blog/from-20-year-old-ink-drawings-to-an-ai-short-film-training-custom-loras-for-z-image-and-ltx-2-3/)
+
+---
+
 ### 🤿 Demystifying ComfyUI: Complete installation to production workflow guide | AInVFX December 19
 [![Demystifying ComfyUI: Complete installation to production workflow guide](https://img.youtube.com/vi/VG0hix4DLM0/maxresdefault.jpg)](https://youtu.be/VG0hix4DLM0)
 
